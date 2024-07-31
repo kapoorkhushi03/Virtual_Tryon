@@ -5,6 +5,8 @@
 <img src="images\step 1.2.jpg" alt="Example Image" width="400"/>
 <img src="images\image 1.1.png" alt="Example Image" width="400"/>
 <img src="images\step 1.3.jpg" alt="Example Image" width="400"/>
+<img src="images\step 8.1.jpg" alt="Example Image" width="400"/>
+
 
 
 
