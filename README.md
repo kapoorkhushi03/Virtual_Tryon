@@ -21,4 +21,7 @@
 <h5>Step 5:Special agnostic image preperation</h5>
 <img src="images\image 5.1.png" alt="Example Image" width="400"/>
 
+<h6>Step 6:Warped top creation</h6>
+<img src="images\image 6.1.png" alt="Example Image" width="400"/>
+
 
