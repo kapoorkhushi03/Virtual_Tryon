@@ -25,7 +25,7 @@
 <img src="images\image 6.1.png" alt="Example Image" width="400"/>
 
 <h2>Step 7:Tranformation and Integration</h2>
-<img src="images\image 7.1.png" alt="Example Image" width="400"/>
+<img src="images\image 7.2.png" alt="Example Image" width="400"/>
 
 
 
