@@ -12,7 +12,7 @@
 
 
 <h2>Step 2:Automated image segmentation using segment-anything and grounding-dino</h2>
-<img src="images\step 2.1.jpg" alt="Example Image" width="400"/>
+<img src="images\image 2.7.jpg" alt="Example Image" width="400"/>
 
 
 <h2>Step 3:Top image extraction</h2>
