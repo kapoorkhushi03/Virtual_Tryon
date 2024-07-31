@@ -12,8 +12,13 @@
 <img src="images\step 2.1.jpg" alt="Example Image" width="400"/>
 <img src="images\step 2.2.jpg" alt="Example Image" width="400"/>
 
-<h2>Top image extraction</h2>
+<h2>Step 3:Top image extraction</h2>
 <img src="images\step 3.1.jpg" alt="Example Image" width="400"/>
 
+<h4>Step 4:Human mask extraction</h2>
+<img src="images\step 2.2.jpg" alt="Example Image" width="400"/>
+
+<h5>Step 5:Special agnostic image preperation</h5>
+<img src="images\image 5.1.png" alt="Example Image" width="400"/>
 
 
